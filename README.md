@@ -1,6 +1,3 @@
-# D3 Homework - Data Journalism and D3
-
-![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 # D3-Health-by-Demographics
 
@@ -8,6 +5,7 @@ By utilizing *d3.js*, this html page visualizes the health risks facing particul
 
 ### Tech Stack
 * JavaScript
+* D3
 * CSS
 * HTML
 
